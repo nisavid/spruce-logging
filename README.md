@@ -1,4 +1,0 @@
-py-logging
-==========
-
-Logging.
